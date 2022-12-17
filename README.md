@@ -11,7 +11,8 @@ Keep moving, Keep growing, Keep learning - Denzel Washington-
 
 혼자하는 코딩이 아닌 같이 하는 코딩, 책임감과 성실함으로 성장하는 개발자가 되겠습니다!!
 </div>
-
+<hr>
+<br>
 <div align="center"> 
 🔥 Used Framework & Skill 🔥
 <br><br>
@@ -28,14 +29,15 @@ Keep moving, Keep growing, Keep learning - Denzel Washington-
 <br>
 <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=Eclipse IDE&logoColor=white"> 
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white">
-</div>
+</div><br>
+<hr>
 
 <div align="center">
   
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=BANTaeHee&show_icons=true&theme=tokyonight) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BANTaeHee&layout=compact&theme=dracula)](https://github.com/metleeha)
 
-  </div>
+</div>
 
 <!--
 **BANTaeHee/BANTaeHee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
