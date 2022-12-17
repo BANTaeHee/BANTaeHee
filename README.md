@@ -2,7 +2,6 @@
 <img src="https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=TaeHee&fontSize=90" />
 </div>
 <div align="center">
-Developers looking to the future rather than the present
 
 ### Hi there 👋
 근성을 가지고 항상 성장해나가는 개발자 반태희입니다.
