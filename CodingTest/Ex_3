@@ -1,0 +1,26 @@
+package Programmers;
+
+public class Solution2 {
+	
+	public String solution(String s) {
+		String answer = "";
+		String[] arr = s.split(" ");	// 빈칸을 기준으로 문자열을 구분
+		int[] nums = new int[arr.length]; // int형 배열 생성
+		int max = Integer.MIN_VALUE;
+		int min = Integer.MAX_VALUE;
+		// MIN_VALUE와 MAX_VALUE를 이용하여 가장 작은 숫자와 가장 큰 숫자값을 할당하여준다.
+				
+		for (int i=0; i < arr.length; i++) {
+			nums[i] = Integer.parseInt(arr[i]);   // String 타입을 int형으로 형변환
+			if (nums[i] > max) {
+				max = nums[i];
+			}
+			if (nums[i] < min) {
+				min = nums[i];
+			}
+		}
+		answer = min+" "+max;
+		
+		return answer;
+	} 
+}
