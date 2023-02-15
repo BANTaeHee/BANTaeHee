@@ -1,0 +1,15 @@
+package Programmers;
+
+public class Solution5 {
+	public int solution5(int[] common) {
+        int answer = 0;
+        
+        if (common[1]-common[0] == common[2]-common[1]) {	// 등차수열의 조건
+        	answer = common[common.length-1] + (common[1]-common[0]);	// 주어진 등차수열에서 마지막 수에서 공차를 더한 값
+        } 
+        if (common[1]/common[0] == common[2]/common[1]) {	// 등비수열의 조건
+        	answer = common[common.length-1] * (common[1]/common[0]);	// 주어진 등비수열에서 마지막 수에서 공비를 곱한 값
+        }
+        return answer;
+    }
+}
