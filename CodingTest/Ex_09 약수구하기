@@ -1,0 +1,18 @@
+import java.util.ArrayList;
+
+class Solution {
+    public static ArrayList<Integer> solution(int n) {
+        int idx = 0;
+		ArrayList<Integer> answer = new ArrayList<>();
+        
+        for (int i = 1; i <= n; i++) {
+            if (n % i == 0) {
+                idx++;			// 인덱스 값만 증가시켜 약수의 개수 파악.(idx+1)
+                answer.add(i);
+            }
+            
+        }
+        //System.out.println(answer);
+        return answer;
+    }
+}
