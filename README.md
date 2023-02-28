@@ -9,6 +9,9 @@
 Keep moving, Keep growing, Keep learning - Denzel Washington-
 
 혼자하는 코딩이 아닌 같이 하는 코딩, 책임감과 성실함으로 성장하는 개발자가 되겠습니다!!
+  
+  <a href = "https://javadocs.tistory.com/" target = "blank" style="text-decoration : none;color: inherit;" >✏️ Tistory 블로그</a></n>
+  <a href = "https://arrow-year-5e1.notion.site/1c3238b81f134f95a8f80b8322b0fe7a?v=74e41fe5bf154266a7bad4be6f4a5814" target = "blank" style="text-decoration : none;color: inherit;" >✏️ Notion 스터디</a>
 </div>
 <hr>
 <br>
